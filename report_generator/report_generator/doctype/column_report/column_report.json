@@ -1,0 +1,36 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2023-07-22 14:47:42.593276",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "column_name",
+  "column_label"
+ ],
+ "fields": [
+  {
+   "fieldname": "column_name",
+   "fieldtype": "Data",
+   "label": "Column Name"
+  },
+  {
+   "fieldname": "column_label",
+   "fieldtype": "Data",
+   "label": "Column Label"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2023-07-22 14:47:42.593276",
+ "modified_by": "Administrator",
+ "module": "Report Generator",
+ "name": "Column Report",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
